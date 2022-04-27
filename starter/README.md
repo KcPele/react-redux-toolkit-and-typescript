@@ -87,7 +87,7 @@ ReactDOM.render(
 - create cartSlice.js
 
 ```js
-import { createSlice } from '@reduxjs/toolkit';
+import { createSlice  } from '@reduxjs/toolkit';
 
 const initialState = {
   cartItems: [],
